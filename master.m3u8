@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
+https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/480p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/720p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA
